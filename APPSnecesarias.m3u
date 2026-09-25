@@ -1,27 +1,47 @@
 {"name": "DESCARGAR APPS NECESARIAS",
 "author": "SuperVectar",
-"url": "",
+"url": "https://raw.githubusercontent.com/supervectar-coder/APPSnecesarias/refs/heads/main/APPSnecesarias.m3u",
 "image": "https://i.ibb.co/Fkd3PrNv/descargalo.png",
 "telegram": "",
 "groups": [
 
 
-{"name": "DESCARGAR VPN 1.1.1.1 WARP (GOOGLE DRIVE)",
-"image": "https://i.ibb.co/Fkd3PrNv/descargalo.png",
+{"name": "DESCARGAR VPN 1.1.1.1 WARP OFICIAL (GOOGLE PLAY)",
+"image": "https://i.ibb.co/YB2Dd1Mx/descarga.jpg",
+"url": "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone"},
+
+{"name": "DESCARGAR VPN 1.1.1.1 WARP MOD/MANDO (GOOGLE DRIVE) no disp",
+"image": "https://i.ibb.co/YB2Dd1Mx/descarga.jpg",
+"url": "https://drive.google.com/file/d/1-AXbpLXCjrZ0DMeK7AKPLhUvWKMD6KwG/view"},
+
+{"name": "DESCARGAR VPN 1.1.1.1 WARP+ ZERO TRUST (GOOGLE DRIVE)",
+"image": "https://i.ibb.co/YB2Dd1Mx/descarga.jpg",
 "url": "https://drive.google.com/file/d/1m2fiYlDIXRNHupVUlJPbZXydQUhlCJkg/view"},
 
+{"name": "DESCARGAR VPN 1.1.1.1 WARP+ ZERO TRUST MOD/AUTOCLICK (GOOGLE DRIVE)",
+"image": "https://i.ibb.co/YB2Dd1Mx/descarga.jpg",
+"url": "https://drive.google.com/file/d/1FOELId5-huexTxPZ23niWPy7KVKfLNE2/view"},
+
 {"name": "DESCARGAR VPN PROTON OFICIAL (GOOGLE PLAY)",
-"image": "https://i.ibb.co/Fkd3PrNv/descargalo.png",
+"image": "https://i.ibb.co/fd18x5Td/proton-vpn-logo-svg.jpg",
 "url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android&referrer=utm_source%3Dprotonvpn.com%26utm_medium%3Dweb%26utm_campaign%3Dpvpn_all_auto"},
 
 {"name": "DESCARGAR ACESTREAM OFICIAL (GOOGLE PLAY)",
-"image": "https://i.ibb.co/Fkd3PrNv/descargalo.png",
+"image": "https://i.ibb.co/pjM4jq7C/acestream.png",
 "url": "https://play.google.com/store/apps/details?id=org.acestream.node&hl=es"},
 
+{"name": "DESCARGAR ACESTREAM + WARP MOD ANDROID (GOOGLE DRIVE)",
+"image": "https://i.ibb.co/pjM4jq7C/acestream.png",
+"url": "https://drive.google.com/file/d/1yuMceIHZlhIW0DpGfGEMjtmE-EQG1WaC/view"},
+
+{"name": "DESCARGAR ACESTREAM + WARP MOD ANDROID TV (GOOGLE DRIVE)",
+"image": "https://i.ibb.co/pjM4jq7C/acestream.png",
+"url": "https://drive.google.com/file/d/1fjcPzSIpnC6Xy284aTdH2bY1ZD7605c9/view"},
+
 {"name": "DESCARGAR ACESERVE ANDROID (GOOGLE DRIVE)",
-"image": "https://i.ibb.co/Fkd3PrNv/descargalo.png",
+"image": "https://i.ibb.co/chjnQWhN/aceserve.png",
 "url": "https://drive.google.com/file/d/1XC_E7Fel-ci2wHgxgr0jLxGfv19vWmsP/view"},
 
 {"name": "DESCARGAR ACESERVE ANDROID TV (GOOGLE DRIVE)",
-"image": "https://i.ibb.co/Fkd3PrNv/descargalo.png",
+"image": "https://i.ibb.co/chjnQWhN/aceserve.png",
 "url": "https://drive.google.com/file/d/1pjktHwjQ6RWaBJQfj0iy-gPomJtygofk/view"}]}
